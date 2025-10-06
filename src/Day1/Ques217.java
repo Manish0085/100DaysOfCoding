@@ -23,6 +23,7 @@ public class Ques217 {
             if (nums[i] == nums[i+1])
                 return true;
         }
+
         return false;
     }
     public boolean method3(int[] nums){
